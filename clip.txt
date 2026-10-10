@@ -1,0 +1,6 @@
+Moments the clip must show, in order:
+1. [x] The crowned monarch standing in a camp with peasants, red banner and gold build signs; title "KINGDOM TWO CROWNS".
+2. [x] Coins fly (gold trail + ding) to peasants, who turn into green archers with bows.
+3. [x] Paying a gold sign: a wooden tower and wall rise block by block, an archer appears on top.
+4. [x] Night falls, masked Greed pour out of purple portals and run at the camp; villagers flee, archers shoot.
+5. [x] The monarch hits Greed with the sword; they die in gold sparks and drop coins that fund stone upgrades.
